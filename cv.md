@@ -33,11 +33,11 @@ I have a dream to work remotely from some beautiful island. Thats why i choose f
 
 ## Code:
 
-'''
+```
 function multiply(a, b) {
   return a * b;
 }
-'''
+```
 
 ## Education:
 

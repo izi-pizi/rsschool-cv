@@ -4,7 +4,6 @@
 
 ***
 
-![my photo](../foto.png")
 
 ## Contact information:
 
@@ -27,7 +26,7 @@
 
 ***
 
-## languages:
+## Languages:
 
 * English (B2)
 

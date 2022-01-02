@@ -1,12 +1,12 @@
-#Bumahin Andrii
+# Bumahin Andrii
 
-###Web developer
+### Web developer
 
 ***
 
-![my photo](..\foto.png")
+![my photo](../foto.png")
 
-##Contact information:
+## Contact information:
 
 **E-mail:** mr.reygin@gmail.com
 
@@ -15,19 +15,22 @@
 **Telegram:** @i_z_ipizi
 
 ***
-##Skills:
+## Skills:
 
-*HTML
-*CSS
-*Javascript
-*Python
+* HTML
+
+* CSS
+
+* Javascript
+
+* Python
 
 ***
 
-##languages:
+## languages:
 
-*English (B2)
+* English (B2)
 
-*Ukrainian (Native)
+* Ukrainian (Native)
 
-*Russian (Native)
+* Russian (Native)
